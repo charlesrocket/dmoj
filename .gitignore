@@ -1,0 +1,9 @@
+problems/**/build/
+problems/**/build-*/
+problems/**/docgen_tmp/
+problems/**/zig-cache
+problems/**/zig-out
+
+problems/**/debug/
+problems/**/target/
+problems/**/Cargo.lock
